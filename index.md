@@ -17,8 +17,8 @@ My research interests include Machine Learning; Stochastic Optimization; Deep Le
 
 
 ## Teaching
-* Instructor:CSC405+605(Fall2023): Data Science; CSC350(Fall2023): Foundations of Computer Science II, University of North Carolina Greensboro.
-* Teaching Assistant: CSE1010: Introduction to Computing for Engineers; CSE5820: Machine Learning; University at Connecticut.
+* Instructor: CSC405+605(Fall2023): Data Science; CSC350(Fall2023): Foundations of Computer Science II. University of North Carolina Greensboro.
+* Teaching Assistant: CSE1010: Introduction to Computing for Engineers; CSE5820: Machine Learning. University at Connecticut.
 
 ## Contact
 Email: q_tong@uncg.edu
