@@ -8,6 +8,7 @@ author_profile: true
 Instructor:
 
 * CSC405+605(Fall2023): Data Science. University of North Carolina Greensboro.
+
 * CSC350(Fall2023): Foundations of Computer Science II. University of North Carolina Greensboro.
 
 Teaching Assistant:
