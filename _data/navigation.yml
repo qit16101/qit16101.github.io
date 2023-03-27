@@ -6,6 +6,6 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
-  #- title: "CV"
-  #  url: /assets/pdfs/Guannan_s_Resume.pdf
+  - title: "Services"
+    url: /services/
     
