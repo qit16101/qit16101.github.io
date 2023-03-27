@@ -13,6 +13,8 @@ My research interests include Machine Learning; Stochastic Optimization; Deep Le
 
 * (Feb 2023) Reviewer for KDD 2023.
 
+* (Dec 2022) Achieved doctoral degree from University at Connecticut.
+
 * (Oct 2022) Our paper "Stochastic privacy-preserving methods for nonconvex sparse learning" is accepted by Information Sciences.
 
 
