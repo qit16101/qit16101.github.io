@@ -11,13 +11,14 @@ My research interests include Machine Learning; Stochastic Optimization; Deep Le
 ## News
 * (March 2023) I have joined the department of Computer Science at University of North Carolina Greensboro in Spring 2023.
 
-* (March 2023) Reviewer for KDD 2023.
+* (Feb 2023) Reviewer for KDD 2023.
 
 * (Oct 2022) Our paper "Stochastic privacy-preserving methods for nonconvex sparse learning" is accepted by Information Sciences.
 
 
 ## Teaching
-* (Oct 2021 - Dec 2021) 
+* Instructor:CSC405+605(Fall2023): Data Science; CSC350(Fall2023): Foundations of Computer Science II, University of North Carolina Greensboro.
+* Teaching Assistant: CSE1010: Introduction to Computing for Engineers; CSE5820: Machine Learning; University at Connecticut.
 
 ## Contact
 Email: q_tong@uncg.edu
