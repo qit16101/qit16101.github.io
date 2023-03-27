@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Qianqian Tong"
-  avatar           : "/assets/images/selfie.jpg"
-  bio              : "I am interested in machine learning, stochastic optimization, recommender system and differential privacy"
+  avatar           : "/assets/images/selfie"
+  #bio              : "I am interested in machine learning, stochastic optimization, recommender system and differential privacy"
   location         : "Greensboro, NC, USA"
   links:
     - label: "Email"
