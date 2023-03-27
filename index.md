@@ -9,38 +9,17 @@ I am an assistant professor in the Department of Computer Science at University 
 My research interests include Machine Learning; Stochastic Optimization; Deep Learning; Differential Privacy; Sparse Learning; Graph Convolutional Network (GCN) and Federated Learning.  
 
 ## News
-* (May 2022)  Reviewer for NeurIPS 2022
+* (March 2023) I have joined the department of Computer Science at University of North Carolina Greensboro in Spring 2023.
 
-* (Jan 2022) One paper is accepted by Neurocomputing 
+* (March 2023) Reviewer for KDD 2023.
 
-* (Jan 2022) Reviewer for ICML 2022
+* (Oct 2022) Our paper "Stochastic privacy-preserving methods for nonconvex sparse learning" is accepted by Information Sciences.
 
-* (Oct 2021) Invited to serve as a PC for IJCAI 2022
 
-* (Sep 2021) Reviewer for ICLR 2022
-
-* (Aug 2021) One paper is accepted by RecSys 2021
-
-* (May 2021)  Reviewer for ACM Transactions on Intelligent Systems and Technology
-
-* (May 2021)  Reviewer for NeurIPS 2021
-
-* (May 2021)  Volunteer for ICLR 2021
-
-* (April 2021)  Technical Presentation at School of Artificial Intelligence, Jilin University, China
-
-* (April 2021)  Ph.D. thesis defense
-
-* (Dec 2020) Two papers are accpected by AAAI 2021
-
-* (Oct 2020) Invited to serve as a PC member for IJCAI 2021
-
-* (Oct 2020) Invited to serve as a reviewer for AAAI 2021
-
-## Courses
-* (Oct 2021 - Dec 2021) I am studying Reinforcement Learning via [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+## Teaching
+* (Oct 2021 - Dec 2021) 
 
 ## Contact
-Email: guannan.liang AT uconn.edu
+Email: q_tong@uncg.edu
 
 
