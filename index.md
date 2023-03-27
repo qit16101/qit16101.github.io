@@ -9,7 +9,7 @@ I am an assistant professor in the Department of [Computer Science](https://comp
 My research interests include Machine Learning; Stochastic Optimization; Deep Learning; Differential Privacy; Sparse Learning; Graph Convolutional Network (GCN) and Federated Learning.  
 
 ## News
-* (March 2023) I have joined the department of Computer Science at University of North Carolina Greensboro in Spring 2023.
+* (March 2023) I have joined the department of Computer Science at UNCG in Spring 2023.
 
 * (Feb 2023) Reviewer for KDD 2023.
 
