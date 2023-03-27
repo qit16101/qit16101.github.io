@@ -3,7 +3,7 @@ layout: home
 title: About me
 author_profile: true
 ---
-I am an assistant professor in the Department of Computer Science at University of North Carolina Greensboro (https://www.uncg.edu/). I obtained my Ph.D. degree in  [Computer Science](https://www.cse.uconn.edu/) from [University at Connecticut, UCONN](https://uconn.edu/) in December 2022, under the supervision of [Prof. Jinbo Bi](https://jinbo-bi.uconn.edu/),  M.S. and B.S. in Mathematics from [Zhengzhou University](http://english.zzu.edu.cn/). 
+I am an assistant professor in the Department of Computer Science at [University of North Carolina Greensboro](https://www.uncg.edu/). I obtained my Ph.D. degree in  [Computer Science](https://www.cse.uconn.edu/) from [University at Connecticut, UCONN](https://uconn.edu/) in December 2022, under the supervision of [Prof. Jinbo Bi](https://jinbo-bi.uconn.edu/),  M.S. and B.S. in Mathematics from [Zhengzhou University](http://english.zzu.edu.cn/). 
 
 ## Research interests
 My research interests include Machine Learning; Stochastic Optimization; Deep Learning; Differential Privacy; Sparse Learning; Graph Convolutional Network (GCN) and Federated Learning.  
